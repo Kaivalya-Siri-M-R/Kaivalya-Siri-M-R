@@ -62,4 +62,3 @@ including form-based and real-time chat applications.
 ## 📫 Connect With Me
 
 - LinkedIn: linkedin.com/in/kaivalya-siri-m-r
-- Email: YOUR_EMAIL
