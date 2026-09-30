@@ -5,7 +5,7 @@
 **Software Engineering · Backend · AI/ML · Data**
 
 <p align="left">
-  <a href="linkedin.com/in/kaivalya-siri-m-r">
+  <a href="www.linkedin.com/in/kaivalya-siri-m-r">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:kaivalyaraghavendra@gmail.com">
@@ -264,7 +264,7 @@ I'm particularly interested in opportunities where I can work on real-world prod
 ## 📫 Let's Connect
 
 <p>
-  <a href="linkedin.com/in/kaivalya-siri-m-r">
+  <a href="www.linkedin.com/in/kaivalya-siri-m-r">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:kaivalyaraghavendra@gmail.com">
